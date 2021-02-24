@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;    
+}
+.Home{
+    position: relative;
+    height: 100%;
+}
+.Web-name{
+    position: relative;
+    background-color:black;
+    height:15%;
+    width:100.9%;
+}
+.Web-name h2{
+    position:relative;
+    left:13%;
+    top:10px;
+}
+.Top-left1{
+    position: absolute;
+  top: 13px;
+  right: 100px;
+}
+.Top-left2{
+    position:absolute;
+    top:13px;
+    right:20px;
+}
+.Body{
+    position:absolute;
+    
+}
+.content{
+    position: absolute;
+  top: 40%;
+  left: 55%;
+  transform: translate(-50%, -50%);
+}
+.insta{
+    position:absolute;
+    top:90%;
+    left: 5%;
+}
+.insta a{
+    position:absolute;
+    left: 24px;
+    top:2px;
+}
+.fb{
+    position:absolute;
+    top:90%;
+    left : 50%;
+}
+.fb a{
+    position:absolute;
+}
+@media only screen and (max-width: 2290)
+{
+    .Body{
+            width:750%;
+            height:auto;
+    }
+    .content h2{
+        color: chartreuse;
+    }
+}

@@ -1,0 +1,30 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.Login-page{
+    height:100%;
+    position:relative;
+}
+.img{
+    position:relative;
+    top:5%;
+}
+.Login-page1 h1{
+    position:absolute;
+    top:35%;
+    left :35%;
+    
+}
+.Login-page1 h3{
+    position:absolute;
+    top :49%;
+    left:35%;
+    font-size: 140% ;
+}
+.Login-page1 h2{
+    position:absolute;
+    top :60%;
+    left:35%;
+}

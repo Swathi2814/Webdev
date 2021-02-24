@@ -1,0 +1,61 @@
+*{
+    margin:0;
+    padding: 0;
+}
+.Main{
+    height:100%;
+    position:relative;
+    background-color:black;
+}
+.Top-Left h2{
+    position:absolute;
+    color: white;
+    left:34%;
+    bottom:93%;
+}
+.Middle{
+    position:relative;
+    left:5%;
+    top:20%;
+    color: white;
+}
+.Middle p{
+    position: absolute;
+    left:45%;
+    bottom:40%;
+}
+.ss{
+    position: relative;
+    top:17%;
+    left:2%;
+}
+.sss{
+    position: relative;
+    top:20%;
+    left :10%;
+}
+.ssss{
+    position: relative;
+    top:13%;
+    left:5%;
+}
+.Leftscroll{
+    position:relative;
+    top:20%;
+    left:5%;
+}
+.Rightscroll{
+    position:relative;
+    top:20%;
+    left:77%;
+}
+.comment{
+    position:relative;
+    left:29%;
+    top:12%;
+}
+.like{
+    position: relative;
+    left:10%;
+    top:15%;
+}
